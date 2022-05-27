@@ -38,6 +38,10 @@ Theory of Synthesizer
 * Non-Linear Oscillation
 * Granular and Grain 
 * Spectrum Model
+* Vecorizing Synthesis
+* Matrix Synthesis
+* Particle Synthesis
+* Noise Clouds
 * Analyzer-Resynthesizer
 * Formants 
 * Pitch and Time
