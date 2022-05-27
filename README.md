@@ -56,10 +56,15 @@ Theory of Synthesizer
 * Modulate
 * Modulus
 
-# Function Operations in Time 
+# Function Operations in Frequency
 * Sin
 * Cos
 * Tan
+
+# Inverse Trignometries
+* asin
+* acos
+* atan 
 
 # Nonlinear Functions 
 * exp
