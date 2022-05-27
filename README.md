@@ -43,3 +43,43 @@ Theory of Synthesizer
 * Voice assignment and scheduling 
 * Synthesizer Algorithms
 
+# Geometrical Operations in Time
+* Add
+* Subtract
+* Modulate
+* Modulus
+
+# Function Operations in Time 
+* Sin
+* Cos
+* Tan
+
+# Nonlinear Functions 
+* exp
+* log
+* pow
+* sqrt
+
+# Hyperbolic Functions
+* sinh
+* cosh
+* tanh
+
+# Complex Functions
+* cabs
+* carg
+* hyptoneuse
+
+# Function Modulation Index
+* Euler Circles
+* Complex Spirals
+
+# Spherical
+* sphere calculations
+* circulars
+* arcs
+* rotations
+* quaternions
+
+
+
