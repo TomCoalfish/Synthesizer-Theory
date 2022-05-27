@@ -2,6 +2,9 @@
 Theory of Synthesizer
 
 * Oscillators 
+* Filters
+* Amplifiers
+* Noise
 * Waves
 * Generator Theories
 * Sequence Theroeis
