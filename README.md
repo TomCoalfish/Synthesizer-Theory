@@ -86,12 +86,29 @@ Theory of Synthesizer
 * Euler Circles
 * Complex Spirals
 
-# Spherical
+# Cubical Platonics
+* Lines
+* Squares
+* Rectangles
+* Cubes 
+
+# Spherical Neo-Platonics
 * sphere calculations
 * circulars
 * arcs
 * rotations
 * quaternions
+
+# Non-Linear
+* Curves
+* Beziers
+* Splines
+* Chebyshevs
+* Integrating tiny vectors 
+* Smoothing them out 
+* Upsampling
+* Filtering
+* Downsampling
 
 
 
