@@ -55,6 +55,8 @@ Theory of Synthesizer
 * when they are added up you see shapes in time like square wave
 * the wave is sampled into the blips
 * the blips are just a number that encode the pulse
+* the pulse code modulation is an encoding to turn samples into wave with a dac
+* adc turn waves into samples
 
 # Oscillator
 * Integration
