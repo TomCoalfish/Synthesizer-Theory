@@ -1,6 +1,5 @@
 # Synthesizer-Theory
 Theory of Synthesizer
-
 * Oscillators 
 * Filters
 * Amplifiers
@@ -50,65 +49,42 @@ Theory of Synthesizer
 * Voice assignment and scheduling 
 * Synthesizer Algorithms
 
-# Geometrical Operations in Time
-* Add
-* Subtract
-* Modulate
-* Modulus
+# Oscillator
+* Integration
+* Fourier Series
+* Taylor Series 
+* Chebyshev Polynomial
+* Differential Wave Equations
+* Frequency Modulation
 
-# Function Operations in Frequency
-* Sin
-* Cos
-* Tan
+# Filter
+* Difference Equation
+* Transfer Function
+* Impulse Response
+* Laplace Transform
+* Bilinear/Z Transform
+* Frequency Response 
+* Convolution 
+* Gain Ratio
+* Phase Difference
+* Geometric Modulation
+* Spectral Envelope
+* Spectral Geometry Impulse
 
-# Inverse Trignometries
-* asin
-* acos
-* atan 
+# Amplifier
+* dB decibels
+* RMS 
+* Gain
+* Amplitude Modualtion
+* Power
+* Distortion
 
-# Nonlinear Functions 
-* exp
-* log
-* pow
-* sqrt
-
-# Hyperbolic Functions
-* sinh
-* cosh
-* tanh
-
-# Complex Functions
-* cabs
-* carg
-* hyptoneuse
-
-# Function Modulation Index
-* Euler Circles
-* Complex Spirals
-
-# Cubical Platonics
-* Lines
-* Squares
-* Rectangles
-* Cubes 
-
-# Spherical Neo-Platonics
-* sphere calculations
-* circulars
-* arcs
-* rotations
-* quaternions
-
-# Non-Linear
-* Curves
-* Beziers
-* Splines
-* Chebyshevs
-* Integrating tiny vectors 
-* Smoothing them out 
-* Upsampling
-* Filtering
-* Downsampling
+# Modulation
+* Frequency Modulation
+* Phase Modulation
+* Phase Distortion
+* Amplitude Modulation
+* Ring Modulation
 
 
-
+* 
