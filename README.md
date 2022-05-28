@@ -86,5 +86,47 @@ Theory of Synthesizer
 * Amplitude Modulation
 * Ring Modulation
 
+# Spectral Algorithms
+* FFT
+* DFT
+* DTFT
+* DCT
+* DST 
+* STFT
+* SDFT
+* Convolution
+* Correlation
+* Spectral Envelopes
+* Spectral Geometry
+* Spectral Impulse Shapes
+* Complex Mathematics
+* Angles
+* Hypotneuse
 
-* 
+# Trigonmetric Waves 
+* Frequency Functions
+* Angle Functions
+* Hyperbolic Functions
+* Hypotoneuse
+
+# Nonlinear Wave Functions
+* exp
+* pow
+* log
+* sqrt
+
+# Function Approximation
+* Chebyshev Polynomials
+* Taylor Series
+* Differential Wave Functions
+* Vector Approximation
+* Splines
+* Beziers
+
+# Spherical Waves 
+* Wave Fields
+* Spatial 
+
+
+
+
