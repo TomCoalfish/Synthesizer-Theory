@@ -78,7 +78,7 @@ Theory of Synthesizer
 * Gain
 * Amplitude Modualtion
 * Power
-* Distortion
+* Time Modulation or Distortion
 
 # Modulation
 * Frequency Modulation
