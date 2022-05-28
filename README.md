@@ -49,6 +49,13 @@ Theory of Synthesizer
 * Voice assignment and scheduling 
 * Synthesizer Algorithms
 
+# Sample
+* A sample is an impulse
+* a single blip
+* when they are added up you see shapes in time like square wave
+* the wave is sampled into the blips
+* the blips are just a number that encode the pulse
+
 # Oscillator
 * Integration
 * Fourier Series
