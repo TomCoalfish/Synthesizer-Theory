@@ -70,6 +70,7 @@ Theory of Synthesizer
 * Geometric Modulation
 * Spectral Envelope
 * Spectral Geometry Impulse
+* Frequency Modulation
 
 # Amplifier
 * dB decibels
