@@ -1,5 +1,5 @@
 # Synthesizer-Theory
-Theory of Synthesizer 
+Theory of Synthesizer  
 * Oscillators 
 * Filters
 * Amplifiers
