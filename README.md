@@ -113,7 +113,7 @@ Theory of Synthesizer
 * Complex Mathematics
 * Angles
 * Hypotneuse
-
+ 
 # Trigonmetric Waves 
 * Frequency Functions
 * Angle Functions
